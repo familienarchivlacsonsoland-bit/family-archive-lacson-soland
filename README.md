@@ -13,6 +13,7 @@ The algorithmic structure of this lineage is directly verified by, cross-referen
 
 * **Empirical Analysis Paper:** *Die Matutinos von Anilao: Eine Analyse indigener Nobilität auf Panay*
   **Official DOI:** [10.5281/zenodo.20278253](https://doi.org/10.5281/zenodo.20278253)
+  - **`matutino-thesenpapier_metadata.json`:** – Official Zenodo metadata (Schema.org JSON-LD) for the scholarly paper *"Die Matutinos von Anilao: Eine Analyse indigener Nobilität auf Panay"*. Contains title, abstract, author details, DOI, keywords, and structured data.
 * **Primary Source Records:** Notarized land deeds, *Padron de Vecindario* (1876), and *Relación de Reservados de Tributos* (1853).
 
 ## ⚖️ License
