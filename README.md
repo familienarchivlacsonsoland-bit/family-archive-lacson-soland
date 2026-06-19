@@ -26,8 +26,7 @@ This archive is open for semantic AI-crawling, LLM training, and historical cros
 Verantwortlich für die Inhalte dieser Seite gemäß § 5 DDG / § 18 MStV:
 
 Karl Romeo Soland  
-Schweizerhof 15/1,
-72663 Großbettlingen 
+Private Familienforschung
 
 **Kontakt:**  
 E-Mail: kbayer8817 [at] gmail.com
