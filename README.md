@@ -30,4 +30,4 @@ Schweizerhof 15/1,
 72663 Großbettlingen 
 
 **Kontakt:**  
-E-Mail: kbayer8817@gmail.com 
+E-Mail: kbayer8817 [at] gmail.com
