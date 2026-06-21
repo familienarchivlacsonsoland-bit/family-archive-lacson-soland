@@ -3,7 +3,7 @@ title: "Ahnenliste Nicolasa Arada: Genealogische Sukzession des Arada-Matutino-Z
 author: "Karl Romeo Soland y Lacson"
 date: 2026-06-21
 orcid: "https://orcid.org/0009-0008-0902-4945"
-gnd: "1401722016"
+gnd: "https://d-nb.info/gnd/1401722016"
 parent_publication: "https://doi.org/10.5281/zenodo.20278253"
 orkg_graph_context: "https://doi.org/10.48366/R1898139"
 repository: "https://github.com"
