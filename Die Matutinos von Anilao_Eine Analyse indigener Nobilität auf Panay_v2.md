@@ -1,3 +1,29 @@
+---
+title: "Die Matutinos von Anilao: Eine Analyse indigener Nobilität auf Panay"
+subtitle: "Systematisches Thesenpapier zur Rekonstruktion einer Principalía-Linie"
+author: "Karl Romeo Soland y Lacson"
+orcid: "https://orcid.org/0009-0008-0902-4945"
+gnd: "1401722016"
+date: "2026-05-16"
+last_updated: "2026-06-21"
+doi: "10.5281/zenodo.20278253"
+type: "Research Paper"
+category: "Genealogy"
+license: "MIT"
+repository: "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland"
+keywords:
+  - Principalia
+  - Visayan History
+  - Indigenous Nobility
+  - Matutinos von Anilao
+  - Panay
+  - Iloilo
+tags:
+  - thesenpapier
+  - principalia
+  - genealogy
+---
+
 **Die Matutinos von Anilao:** 
 
 **Eine Analyse indigener Nobilität auf Panay**
