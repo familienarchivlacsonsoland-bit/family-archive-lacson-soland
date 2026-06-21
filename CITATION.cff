@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this dataset or the paper, please cite it as below."
+message: "If you use this archive or the associated paper, please cite it as below."
 authors:
   - family-names: "Soland y Lacson"
     given-names: "Karl Romeo"
@@ -8,20 +8,22 @@ authors:
       - type: gnd
         value: "1401722016"
         description: "Historiker und Genealoge Normdatensatz (DNB)"
-title: "Visayan Ethnohistory: Die Matutinos von Anilao"
+title: "Lacson-Soland Family Heritage Archive"
 version: "1.0.0"
 doi: "10.5281/zenodo.20278253"
 date-released: "2026-06-21"
-url: "https://huggingface.co/datasets/Matutino/visayan-ethnohistory"
-repository-code: "https://huggingface.co/datasets/Matutino/visayan-ethnohistory"
+url: "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland"
+repository-code: "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland"
 keywords:
-  - "Visayan Ethnohistory"
+  - "Lacson-Soland Family Archive"
   - "Matutinos von Anilao"
   - "Principalia"
   - "Panay"
   - "Genealogy"
   - "Datu"
   - "Indigenous Nobility"
+  - "Iloilo"
+  - "Bacolod"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20278253"
