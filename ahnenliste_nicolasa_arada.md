@@ -1,10 +1,21 @@
-# Ahnenliste Nicolasa Arada
-
-## Metadaten der Datei
-* **Datei:** `Ahnenliste Nicolasa Arada.ged`
-* **Erstellt am:** 21. Juni 2026, 22:39:54 Uhr
-* **Einreicher (Submitter):** Karl Romeo Lacson
-
+---
+title: "Ahnenliste Nicolasa Arada: Genealogische Sukzession des Arada-Matutino-Zweigs in Iloilo"
+author: "Karl Romeo Soland y Lacson (III)"
+date: 2026-06-21
+orcid: "https://orcid.org/0009-0008-0902-4945"
+gnd: "1401722016"
+parent_publication_doi: "10.5281/zenodo.20278253"
+orkg_graph_context: "https://doi.org/10.48366/R1898139"
+repository: "https://github.com"
+type: "genealogical-dataset"
+license: "CC-BY-4.0"
+keywords:
+  - Ahnenliste Nicolasa Arada
+  - Guillermo Arada
+  - Leoncia Matutino
+  - Raymundo Matutino
+  - Cabeza de Barangay
+  - Iloilo Ethnohistory
 ---
 
 ## Stammbaum (Generationsdarstellung)
