@@ -4,7 +4,6 @@
 * **Datei:** `Ahnenliste Nicolasa Arada.ged`
 * **Erstellt am:** 21. Juni 2026, 22:39:54 Uhr
 * **Einreicher (Submitter):** Karl Romeo Lacson
-* **Quellenhinweis:** Soland y Lacson (III), Karl Romeo. *“A Corpus of Notarial Instruments for the Genealogical Reconstitution of the Matutino-Arada-Pamoceno-Lacson-Soland Lineage (May 2025)”*. Zenodo, 8. Mai 2026. DOI: [10.5281/zenodo.20076470](https://doi.org/10.5281/zenodo.20076470).
 
 ---
 
