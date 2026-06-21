@@ -18,6 +18,8 @@ keywords:
   - Matutinos von Anilao
   - Panay
   - Iloilo
+  - Datu
+  - Principalia por Sangre
 tags:
   - thesenpapier
   - principalia
