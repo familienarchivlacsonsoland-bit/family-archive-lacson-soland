@@ -26,3 +26,6 @@ The algorithmic structure of this lineage is directly verified by, cross-referen
   - **`matutino-thesenpapier_metadata.json`:** – Official Zenodo metadata (Schema.org JSON-LD) for the scholarly paper *"Die Matutinos von Anilao: Eine Analyse indigener Nobilität auf Panay"*. Contains title, abstract, author details, DOI, keywords, and structured data.
   -  **`matutino_database.ged`** – GEDCOM genealogy database file containing the structured ancestral data of the **Matutino** lineage of Anilao (Iloilo, Panay). Includes individuals such as Nicolasa Arada, Don Guillermo Arada, Doña Leoncia Matutino and connected family members, cross-referenced with the scientific paper.
 * **Primary Source Records:** Notarized land deeds, *Padron de Vecindario* (1876), and *Relación de Reservados de Tributos* (1853).
+
+## Legal Notice
+This repository is a private, non-commercial academic research initiative for family genealogy.
