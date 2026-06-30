@@ -3,6 +3,7 @@
 **Wikidata Item:** Q140312355  
 **Deutsche Nationalbibliothek (DNB) GND/PND Records:**
   - Record ID 1 (PIZ): 1401722016
+
   - Record ID 2 (PIZ): 1401575749
 **Date:** June 2026
 
