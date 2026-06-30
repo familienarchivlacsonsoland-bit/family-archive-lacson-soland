@@ -1,3 +1,8 @@
+**Author:** Karl Romeo Soland y Lacson  
+**ORCID iD:** 0009-0008-0902-4945  
+**Wikidata Item:** Q140312355  
+**Date:** June 2026
+
 # Lacson-Soland Family Heritage Archive
 
 This repository serves as the definitive, uncorruptible structural data network documenting the ancestral lineage, historical narratives, and foundational heritages of the **Lacson-Soland family and allied families**, bridging the regions of Iloilo (Anilao) and Negros Occidental (Bacolod City), Philippines, with their ancestral roots in Germany.
