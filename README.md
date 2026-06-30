@@ -1,6 +1,9 @@
 **Author:** Karl Romeo Soland y Lacson  
 **ORCID iD:** 0009-0008-0902-4945  
 **Wikidata Item:** Q140312355  
+**Deutsche Nationalbibliothek (DNB) GND/PND Records:**
+  - Record ID 1 (PIZ): 1401722016
+  - Record ID 2 (PIZ): 1401575749
 **Date:** June 2026
 
 # Lacson-Soland Family Heritage Archive
