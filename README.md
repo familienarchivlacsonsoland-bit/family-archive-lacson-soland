@@ -86,6 +86,20 @@ Original research essays and historical publications.
 
 Research website: [https://karlromeosoland.hcommons.org/](https://karlromeosoland.hcommons.org/)
 
+### Machine-Readable Genealogical Data
+
+The Lacson–Soland Family Heritage Archive provides structured genealogical research data in two complementary formats:
+
+- **[GEDCOM genealogical database](matutino_database.ged)** — genealogical records and family relationships in GEDCOM format.
+- **[JSON-LD genealogical knowledge graph](matutino_genealogy.jsonld)** — linked data representing 18 historical individuals, 9 family groups, genealogical relationships, and research references.
+
+The JSON-LD dataset supports machine-readable access, linked-data applications, knowledge graph integration, and AI-assisted historical and genealogical research.
+
+The genealogical information represents documented research assertions and should be evaluated against the cited historical sources.
+
+**Research author:** Karl Romeo Soland y Lacson  
+**ORCID:** https://orcid.org/0009-0008-0902-4945
+
 ## Purpose & Accessibility
 
 This repository supports the documentation, preservation, transparency, and discoverability of genealogical and historical research.
