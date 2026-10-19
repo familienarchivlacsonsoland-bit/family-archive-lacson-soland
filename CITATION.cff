@@ -1,31 +1,43 @@
+
 cff-version: 1.2.0
-message: "If you use this archive or the associated paper, please cite it as below."
+message: "If you use this research repository, please cite it using the information below. Individual research publications should be cited separately."
+type: dataset
+
 authors:
   - family-names: "Soland y Lacson"
     given-names: "Karl Romeo"
     orcid: "https://orcid.org/0009-0008-0902-4945"
-    identifiers:
-      - type: gnd
-        value: "1401722016"
-        description: "Historiker und Genealoge Normdatensatz (DNB)"
+
 title: "Lacson-Soland Family Heritage Archive"
 version: "1.0.0"
-doi: "10.5281/zenodo.20278253"
 date-released: "2026-06-21"
+
 url: "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland"
 repository-code: "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland"
+
+abstract: >-
+  Non-commercial genealogical and historical research repository
+  documenting the Lacson-Soland family and allied families,
+  with connections to Iloilo, Negros Occidental, and Germany.
+  Includes genealogical data, GEDCOM files, historical research,
+  biographies, and machine-readable metadata.
+
 keywords:
   - "Lacson-Soland Family Archive"
-  - "Matutinos von Anilao"
-  - "Principalia"
-  - "Panay"
   - "Genealogy"
-  - "Datu"
+  - "Digital Humanities"
+  - "Historical Research"
+  - "Research Data"
+  - "GEDCOM"
+  - "Matutino"
+  - "Principalía"
+  - "Panay"
+  - "Philippine History"
   - "Indigenous Nobility"
   - "Iloilo"
   - "Bacolod"
+
 identifiers:
-  - type: doi
-    value: "10.5281/zenodo.20278253"
-  - type: gnd
-    value: "1401722016"
+  - type: other
+    value: "https://d-nb.info/gnd/1401722016"
+    description: "GND authority record of the author"
