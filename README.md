@@ -15,7 +15,7 @@ The repository complements the archival collections and research publications ma
 **Wikidata Item:** Q140312355
 **Date:** June 2026
 
-**Deutsche Nationalbibliothek (DNB) – GND/PND Records:**
+**Deutsche Nationalbibliothek (DNB) – GND/PND Record:**
 
 - Record ID (PIZ): [1401722016](https://d-nb.info/gnd/1401722016)
 
