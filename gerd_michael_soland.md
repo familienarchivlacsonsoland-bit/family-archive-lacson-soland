@@ -14,7 +14,7 @@ authors:
   - "Karl Romeo Soland"
 date: "2026-04-24"
 language: "en"
-repository: "Lacson-Soland Family Heritage Archive"
+repository: "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland"
 source: "https://web.archive.org/web/20260511231708/https%3A%2F%2Fvisayandailystar.com%2Fin-loving-memory-of-gerd-michael-soland%2F"
 ---
 
