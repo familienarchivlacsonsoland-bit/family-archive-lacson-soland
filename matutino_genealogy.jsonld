@@ -1,0 +1,1007 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "ged": "https://gedcom.io/terms/",
+    "parent": {
+      "@id": "https://schema.org/parent",
+      "@type": "@id"
+    }
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld",
+      "@type": "Dataset",
+      "name": "Matutino genealogical linked data",
+      "description": "Structured transcription of genealogical assertions from matutino_database.ged. Historical relationships and claims are reproduced from the source, not independently verified.",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged",
+        "encodingFormat": "text/plain"
+      },
+      "creator": {
+        "@type": "Person",
+        "name": "Karl Romeo Soland y Lacson",
+        "sameAs": "https://orcid.org/0009-0008-0902-4945"
+      },
+      "keywords": [
+        "genealogy",
+        "Matutino",
+        "Arada",
+        "Panay",
+        "Iloilo",
+        "GEDCOM",
+        "linked data"
+      ],
+      "variableMeasured": [
+        "Person",
+        "GEDCOM family unit",
+        "GEDCOM parent-child relationship"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I7",
+      "@type": "Person",
+      "identifier": "@I7@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Nicolasa Arada",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "D0AE3B66DC8F478886D7513780FC8153"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Nicolasa",
+      "familyName": "Arada",
+      "gender": "Female",
+      "deathDate": "1932",
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Sara, Provinz Iloilo, Philippinen"
+      },
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I10"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9",
+      "@type": "Person",
+      "identifier": "@I9@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Don Guillermo Arada",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "BDD9426C054C4E44ABD7634DA67E8928"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM BIRT DATE",
+          "value": "ABT 1856"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253, https://doi.org/10.5281/zenodo.20076256"
+        }
+      ],
+      "givenName": "Guillermo",
+      "familyName": "Arada",
+      "gender": "Male",
+      "hasOccupation": [
+        {
+          "@type": "Occupation",
+          "name": "Cabeza de Barangay"
+        }
+      ],
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        },
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20076256",
+          "identifier": "https://doi.org/10.5281/zenodo.20076256"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9103"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9145"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F4"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I10",
+      "@type": "Person",
+      "identifier": "@I10@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Doña Leoncia Matutino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "467E7A3B068E410D94AEAAF917FB79B4"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Leoncia",
+      "familyName": "Matutino",
+      "gender": "Female",
+      "birthDate": "1863",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9069"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9070"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F4"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9069",
+      "@type": "Person",
+      "identifier": "@I9069@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Raymundo Matutino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "A1EB2E84AF854E16A1E7E2CEE9DCCDFF9F46"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Raymundo",
+      "familyName": "Matutino",
+      "gender": "Male",
+      "birthDate": "1827",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9081"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9089"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3550"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9070",
+      "@type": "Person",
+      "identifier": "@I9070@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Lorenza Aberde",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "514E552BB93F46789D8008D6DCE29D7CA75E"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Lorenza",
+      "familyName": "Aberde",
+      "gender": "Female",
+      "birthDate": "1837",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3550"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9073",
+      "@type": "Person",
+      "identifier": "@I9073@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Mamerto Castagno",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "33B5E33DA4CF47CCA06FDD172E0546FA04CC"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20076256"
+        }
+      ],
+      "givenName": "Mamerto",
+      "familyName": "Castagno",
+      "gender": "Male",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20076256",
+          "identifier": "https://doi.org/10.5281/zenodo.20076256"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3551"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9081",
+      "@type": "Person",
+      "identifier": "@I9081@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Ignacio Matutino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "A740B3A2EA264F0E853010027A05F5AE92D3"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Ignacio",
+      "familyName": "Matutino",
+      "gender": "Male",
+      "hasOccupation": [
+        {
+          "@type": "Occupation",
+          "name": "Cabeza de Barangay and Gobernadorcillo"
+        }
+      ],
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9090"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9091"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3557"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9089",
+      "@type": "Person",
+      "identifier": "@I9089@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Maria Consuelo Alejandrino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "666FE69361524C6DB0F2B8D86DE63154C48D"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Maria Consuelo",
+      "familyName": "Alejandrino",
+      "gender": "Female",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3557"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9090",
+      "@type": "Person",
+      "identifier": "@I9090@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Felipe Matutino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "B6A38D9CAC57416B9E1DB19440549B0C6CAC"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Felipe",
+      "familyName": "Matutino",
+      "gender": "Male",
+      "hasOccupation": [
+        {
+          "@type": "Occupation",
+          "name": "Cabeza de Barangay and Gobernadorcillo"
+        }
+      ],
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9097"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9098"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3555"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9091",
+      "@type": "Person",
+      "identifier": "@I9091@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Carmen Ledesma",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "23829C6155BC45748EF9BC5846BDA931E44A"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Carmen",
+      "familyName": "Ledesma",
+      "gender": "Female",
+      "description": "- Member of the prominent Ledesma Family of Iloilo.",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3555"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9097",
+      "@type": "Person",
+      "identifier": "@I9097@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Diego Matutino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "C83D92D4AE844859B9F082FF43D58FB5C455"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Diego",
+      "familyName": "Matutino",
+      "gender": "Male",
+      "hasOccupation": [
+        {
+          "@type": "Occupation",
+          "name": "Cabeza de Barangay and Gobernadorcillo"
+        }
+      ],
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9099"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9100"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3561"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9098",
+      "@type": "Person",
+      "identifier": "@I9098@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Isabel de la Cruz",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "2412D5B0CB8447A99D6F47F17EB9A8021F90"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Isabel",
+      "familyName": "de la Cruz",
+      "gender": "Female",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3561"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9099",
+      "@type": "Person",
+      "identifier": "@I9099@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Juan Matutino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "C0271F71D8F545B29AE53327021B84964B52"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Juan",
+      "familyName": "Matutino",
+      "gender": "Male",
+      "description": "- Member of the Principalia.",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9101"
+        },
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9102"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3562"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9100",
+      "@type": "Person",
+      "identifier": "@I9100@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Catalina Lopez",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "33E83969C51048A3BE22C269785DA44A4BB2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Catalina",
+      "familyName": "Lopez",
+      "gender": "Female",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3562"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9101",
+      "@type": "Person",
+      "identifier": "@I9101@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Felipe Matutino",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "AC5E3E63F68143DDB90E1B9B9290252D3365"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Felipe",
+      "familyName": "Matutino",
+      "gender": "Male",
+      "description": "- First known ancestor.",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3563"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9102",
+      "@type": "Person",
+      "identifier": "@I9102@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Maria de los Reyes",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "F3E4E36771D040678752CEF821B4DFD935E5"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "givenName": "Maria",
+      "familyName": "de los Reyes",
+      "gender": "Female",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20278253",
+          "identifier": "https://doi.org/10.5281/zenodo.20278253"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3563"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9103",
+      "@type": "Person",
+      "identifier": "@I9103@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Ignacio Arada",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "1C266482BEB64D43ADFFBA2A9B608A91D2E3"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM BIRT DATE",
+          "value": "ABT 1822"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.5281/zenodo.20076256"
+        }
+      ],
+      "givenName": "Ignacio",
+      "familyName": "Arada",
+      "gender": "Male",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.5281/zenodo.20076256",
+          "identifier": "https://doi.org/10.5281/zenodo.20076256"
+        }
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9073"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3581"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9145",
+      "@type": "Person",
+      "identifier": "@I9145@",
+      "isPartOf": {
+        "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_genealogy.jsonld"
+      },
+      "name": "Petrona Aposaga",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM _UID",
+          "value": "3EE0F168C0F94C20BEF0876ABBD8D5A245BD"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "GEDCOM SOUR (verbatim)",
+          "value": "Fully documented in scientific paper, https://doi.org/10.6084/m9.figshare.32231028"
+        }
+      ],
+      "givenName": "Petrona",
+      "familyName": "Aposaga",
+      "gender": "Female",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "url": "https://doi.org/10.6084/m9.figshare.32231028",
+          "identifier": "https://doi.org/10.6084/m9.figshare.32231028"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3581"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F4",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F4@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I10"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I7"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3550",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3550@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9069"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9070"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I10"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3551",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3551@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9073"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9103"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3555",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3555@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9090"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9091"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9081"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3557",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3557@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9081"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9089"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9069"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3561",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3561@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9097"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9098"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9090"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3562",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3562@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9099"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9100"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9097"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3563",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3563@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9101"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9102"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9099"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    },
+    {
+      "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#family-F3581",
+      "@type": "ged:Family",
+      "ged:gedcomId": "@F3581@",
+      "ged:husband": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9103"
+        }
+      ],
+      "ged:wife": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9145"
+        }
+      ],
+      "ged:child": [
+        {
+          "@id": "https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/blob/main/matutino_database.ged#person-I9"
+        }
+      ],
+      "ged:marriageRecord": [
+        "Y"
+      ]
+    }
+  ]
+}
