@@ -1,3 +1,23 @@
+---
+title: "In Loving Memory of Gerd-Michael Soland"
+document_type: "Biographical Memorandum"
+person_name: "Gerd-Michael Soland"
+birth_date: "1958-09-03"
+death_date: "2025-04-23"
+birth_place: "Reutlingen, Germany"
+associated_places:
+  - "Reutlingen, Germany"
+  - "Eningen, Germany"
+  - "Bacolod City, Negros Occidental, Philippines"
+authors:
+  - "Gemma Lacson vda. de Soland"
+  - "Karl Romeo Soland"
+date: "2026-04-24"
+language: "en"
+repository: "Lacson-Soland Family Heritage Archive"
+source: "https://web.archive.org/web/20260511231708/https%3A%2F%2Fvisayandailystar.com%2Fin-loving-memory-of-gerd-michael-soland%2F"
+---
+
 # In Loving Memory of Gerd-Michael Soland
 *(September 3, 1958 – April 23, 2025)*
 
