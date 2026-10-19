@@ -17,7 +17,7 @@ The repository complements the archival collections and research publications ma
 
 **Deutsche Nationalbibliothek (DNB) – GND/PND Records:**
 
-- Record ID 1 (PIZ): 1401722016
+- Record ID (PIZ): [1401722016](https://d-nb.info/gnd/1401722016)
 
 ## Research Focus
 
