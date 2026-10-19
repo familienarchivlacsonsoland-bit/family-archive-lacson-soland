@@ -101,3 +101,5 @@ This repository is part of a privately maintained, non-commercial genealogical a
 The author is an independent historian and genealogist. Public availability of research materials does not, by itself, imply institutional endorsement or independent peer review.
 
 Please consult the repository's `LICENSE` file and any file-specific notices for applicable reuse conditions.
+
+**Impressum:** [Legal Notice on my research website](https://karlromeosoland.hcommons.org/impressum/)
