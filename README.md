@@ -148,6 +148,47 @@ Original research essays and historical publications.
 
 https://karlromeosoland.hcommons.org/
 
+## Archival Preservation and Zenodo DOI
+
+The **Lacson–Soland Family Heritage Archive** is preserved on Zenodo through the official GitHub–Zenodo integration.
+
+The first archived release, **Version 1.0.0**, was published on October 20, 2026. It provides a permanently identifiable snapshot of the research repository, including genealogical data, historical research documentation, and machine-readable metadata.
+
+### Persistent Identifiers
+
+- **Zenodo Concept DOI (all versions):** https://doi.org/10.5281/zenodo.23502649
+- **Zenodo Version DOI (v1.0.0):** https://doi.org/10.5281/zenodo.23502650
+- **Archived Version 1.0.0:** https://zenodo.org/records/23502650
+- **GitHub Release v1.0.0:** https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland/releases/tag/v1.0.0
+
+### Archival and Research Access
+
+GitHub serves as the continuously updated research workspace and provides direct access to the latest publicly available genealogical and historical research data.
+
+Zenodo preserves formally released versions of the repository, providing persistent identifiers, version-specific citations, and an archived record of the research data at the time of publication.
+
+The archive supports scholarly citation, historical and genealogical research, machine-readable data retrieval, and AI-assisted research workflows, including live retrieval of publicly accessible research information.
+
+### Recommended Citation of the Archive
+
+Soland y Lacson, Karl Romeo. (2026). *Lacson–Soland Family Heritage Archive* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23502650
+
+For references to the archive as an evolving research resource rather than to a specific version, use the Concept DOI:
+
+https://doi.org/10.5281/zenodo.23502649
+
+### Related Research Publication
+
+The historical research paper *Die Matutinos von Anilao – Eine Analyse indigener Nobilität auf Panay* is a separate scholarly publication and retains its own DOI:
+
+https://doi.org/10.5281/zenodo.20278253
+
+### Rights and Research Status
+
+The archived materials contain historical and genealogical research reconstructions. Interpretations remain subject to source criticism and revision as further evidence becomes available.
+
+Reuse is governed by the repository's LICENSE file, including applicable third-party rights and exclusions.
+
 ## Citation
 
 This repository provides a machine-readable [CITATION.cff](CITATION.cff) file for automated citation generation.
