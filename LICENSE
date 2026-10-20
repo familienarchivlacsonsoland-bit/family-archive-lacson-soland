@@ -1,21 +1,55 @@
-MIT License
 
-Copyright (c) 2026 familienarchivlacsonsoland-bit
+Lacson–Soland Family Heritage Archive
+Copyright © 2026 Karl Romeo Soland y Lacson
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+LICENSING AND RIGHTS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. ORIGINAL RESEARCH TEXTS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Original research papers, genealogical essays, biographies,
+and other original written works are licensed under the
+Creative Commons Attribution 4.0 International License
+(CC BY 4.0), unless otherwise stated.
+
+https://creativecommons.org/licenses/by/4.0/
+
+Reuse, redistribution, and adaptation are permitted,
+including commercial use, provided appropriate attribution
+is given and changes are indicated.
+
+2. GENEALOGICAL DATASETS
+
+Original genealogical datasets published in GEDCOM and
+JSON-LD formats are licensed under CC BY 4.0, to the
+extent that copyright or database rights apply and the
+archive has authority to grant such rights.
+
+Users must provide appropriate attribution when required
+by the license.
+
+3. THIRD-PARTY MATERIALS
+
+Historical documents, photographs, newspaper articles,
+archival reproductions, and other third-party materials
+are not automatically covered by this license.
+
+All rights remain with their respective rights holders.
+
+4. PRIVACY AND RESEARCH ACCURACY
+
+The publication of genealogical information does not
+override applicable privacy or data protection laws.
+
+Genealogical relationships and historical interpretations
+represent research findings and may be revised when
+new evidence becomes available.
+
+5. ATTRIBUTION
+
+Author: Karl Romeo Soland y Lacson
+Archive: Lacson–Soland Family Heritage Archive
+Repository:
+https://github.com/familienarchivlacsonsoland-bit/family-archive-lacson-soland
+
+ORCID:
+https://orcid.org/0009-0008-0902-4945
