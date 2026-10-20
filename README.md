@@ -50,6 +50,12 @@ These materials provide a basis for examining family relationships and historica
 
 ### Historical Research Publication
 
+**Full Research Paper (Markdown):**
+
+[Die Matutinos von Anilao – Eine Analyse indigener Nobilität auf Panay](Die%20Matutinos%20von%20Anilao_Eine%20Analyse%20indigener%20Nobilit%C3%A4t%20auf%20Panay_v2.md)
+
+The complete research paper is available in Markdown format for direct reading, full-text search, machine-readable access, and AI-assisted historical research.
+
 **Die Matutinos von Anilao: Eine Analyse indigener Nobilität auf Panay**
 
 Systematisches Thesenpapier zur Rekonstruktion einer Principalía-Linie.
